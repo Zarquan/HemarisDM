@@ -3,6 +3,8 @@ ExecutionBrokerDM
 
 This project expresses the executionBroker DM using VO-DML and [vodml tools](https://github.com/ivoa/vo-dml).
 
+[![Java CI with Gradle](https://github.com/ivoa/ExecutionBrokerDM/actions/workflows/gradletest.yml/badge.svg)](https://github.com/ivoa/ExecutionBrokerDM/actions/workflows/gradletest.yml)
+
 The real source is in [model/ExecutionBrokerDM-v1.vodsl](model/ExecutionBrokerDM-v1.vodsl).
 
 The [ExecutionBrokerDM documentation](https://ivoa.github.io/ExecutionBrokerDM/) is published on GitHub pages with CI.
